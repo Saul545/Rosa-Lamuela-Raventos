@@ -1,0 +1,32 @@
+﻿<html>
+<head>
+</head>
+<body>
+<h1>ROSA M.LAMUELA RAVENTÓS </h1>
+<hr>
+<h2>Biografía</h2>
+<img src="imagen1.jpg" width="200px" high="100px">
+<ul>
+<li>La Dra. Lamuela-Raventos es una destacada Profesora Titular del Departamento de Nutrición, Bromatología y Gastronomía de la Facultad de Farmacia y Ciencias de la Alimentación de la Universidad de Barcelona.</li>
+<li>Realizó su estancia postdoctoral en el Departamento de Viticultura y Enología de la Universidad de California Davis con el Dr. Andrew Waterhouse, donde comenzó a trabajar con polifenoles y salud. Directora del grupo Antioxidantes Naturales: Polifenoles.</li>
+<hr>
+<h2>Trayectoria profesional</h2>
+<a href="https://www.ub.edu/campusalimentacio/es/noticies/curriculum_dra_lamuela_raventos.html" target="_blank"><img src="Imagen2.jpg" width="180px" high="85px"></a>
+<li>Doctora en Farmacia, Máster en Nutrición y Tecnología de los Alimentos por la Universitat de Barcelona</li>
+<li>Máster en Viticultura y Enología por la Universitat Politécnica de Cataluña</li>
+<li>Profesora Titular del departamento de Nutrición y Bromatología.</li>
+<hr>
+<h2>Premios</h2>
+<li>Ha conseguido durante 5 años consecutivos 2017-2021 el reconocimiento Highly Cited Researcher por Clarivate Analytics</li>
+<li><a href="https://www.ciberobn.es/noticias/rosa-m%C2%AA-lamuela-raventos-premio-del-instituto-danone-a-la-trayectoria-cientifica" target="_blank">Ha sido galardonada con el XXV Premio Instituto Danone a la Trayectoria Científica "Dr. Carles Martí Henneberg" en 2018.</a></li>
+<img src="Imagen3.jpg" width="190px" high="89px">
+<hr>
+
+
+
+
+
+</ul>
+</body>
+
+</html>
